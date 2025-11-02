@@ -3,7 +3,6 @@
 ## Parte 1: Fundamentos de Documentación y Javadoc
 
 **Alvaro Ortiz Villarejo**
-- *Alvaro Ortiz Villarejo*
 
 **Descripción de lo que hacen:**
 - El equipo de desarrollo comprende la importancia de la documentación y del control de versiones para la colaboración efectiva.
@@ -15,10 +14,7 @@
 
 ## Parte 2: Herramientas de Documentación Automatizada (PHP y Versátil)
 
-**Participantes Principales:**
-- *Equipo de desarrollo (PHP y multiplataforma)*
-- *phpDocumentor*
-- *Doxygen*
+**Nerea Etxaniz Zubizarreta**
 
 **Descripción de lo que hacen:**
 - El equipo explora herramientas más allá de Java para documentar código en PHP y otros lenguajes.
@@ -31,9 +27,7 @@
 
 ## Parte 3: Estándares de Documentación Manual y Plantillas
 
-**Participantes Principales:**
-- *Equipo de desarrollo*
-- *Netbeans (plantillas/templates)*
+**Elvis Cristian Vargas Jachacollo**
 
 **Descripción de lo que hacen:**
 - El equipo establece normas claras de nomenclatura y documentación interna del código (comentarios en línea, bloque y especiales para Javadoc).
@@ -45,11 +39,7 @@
 
 ## Parte 4: Herramientas Colaborativas y Teoría de Control de Versiones
 
-**Participantes Principales:**
-- *Equipo de desarrollo*
-- *Slack*
-- *Microsoft Office 365*
-- *Sistemas de Control de Versiones (SCV): Git, Github, Subversion, etc.*
+**Antonio Sánchez Mora**
 
 **Descripción de lo que hacen:**
 - El equipo utiliza Slack y Microsoft Office 365 para comunicarse y colaborar (creación de canales, compartir archivos, integración de apps, colaboración en documentos).
@@ -61,11 +51,7 @@
 
 ## Parte 5: Implementación Práctica de Git, Operaciones Avanzadas y Seguridad
 
-**Participantes Principales:**
-- *Equipo de desarrollo*
-- *Git*
-- *Github*
-- *Netbeans (como cliente)*
+**Mustafa Makhnass**
 
 **Descripción de lo que hacen:**
 - El equipo configura Git y Github para establecer repositorios centralizados y distribuidos, siguiendo los pasos de inicialización, clonación y push.
