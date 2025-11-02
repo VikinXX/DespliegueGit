@@ -2,7 +2,7 @@
 
 ## Parte 1: Fundamentos de Documentación y Javadoc
 
-**Participantes Principales:**
+**Alvaro Ortiz Villarejo**
 - *Alvaro Ortiz Villarejo*
 
 **Descripción de lo que hacen:**
